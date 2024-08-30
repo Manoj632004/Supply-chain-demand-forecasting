@@ -5,7 +5,8 @@ This project is a modified implementation of the Walmart Sales Forecasting proje
 The goal of this project is to predict Walmart's weekly sales for various stores and departments.
 
 # Reference
-The original Kaggle project can be found here: [Walmart Sales Forecasting by Muskan Khandelwal](https://www.kaggle.com/code/muskankhandelwal/walmart-sales-forecasting/)
+The original Kaggle project can be found here: [Walmart Sales Forecasting by Muskan Khandelwal](https://www.kaggle.com/code/muskankhandelwal/walmart-sales-forecasting/) <br/>
+[dataset](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast/data)
 
 # Setup
 1.Clone this repository. <br/> 
