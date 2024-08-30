@@ -12,4 +12,4 @@ Dataset attatched [here](https://www.kaggle.com/datasets/aslanahmedov/walmart-sa
 1.Clone this repository. <br/> 
 2.pip install -r requirements.txt <br/> 
 3.Download the dataset from the Kaggle link provided. <br/> 
-4.Run the notebooks .
+4.Run the notebook .
