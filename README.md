@@ -1,5 +1,5 @@
 # Supply-chain-demand-forecasting
-This project is a modified implementation of the Walmart Sales Forecasting project originally found on Kaggle. The original project was done using pandas for data preprocessing and analysis. In my implementation, I have made several changes, and used PySpark to handle the data processing.
+This project is a modified implementation of the Walmart Sales Forecasting project originally found on Kaggle. The original project was done using pandas for data preprocessing and analysis. In my implementation, I have made several changes to optimize, and used PySpark to handle the data processing.
 
 # Project Overview
 The goal of this project is to predict Walmart's weekly sales for various stores and departments.
